@@ -21,7 +21,7 @@ import java.util.List;
 public class PersonServiceImpl implements PersonService {
 
     @Autowired
-    PersonRepository personRepository;
+    private PersonRepository personRepository;
 
     @Autowired
     private MongoTemplate mongoTemplate;
