@@ -1,0 +1,1 @@
+This project requires Mongo DB to be created and running as a prerequisite. Please setup docker on your local machine and spin up a Mongo DB container. Please setup the user credentials using docker command and use the DB as backend for this spring boot project.
